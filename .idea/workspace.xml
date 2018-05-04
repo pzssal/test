@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933a022c-6ea0-41cb-aa3a-51e03855eb19" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tesss.html" beforeDir="false" afterPath="$PROJECT_DIR$/tesss.html" afterDir="false" />
-    </list>
+    <list default="true" id="933a022c-6ea0-41cb-aa3a-51e03855eb19" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -122,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525445907875</updated>
-      <workItem from="1525445909235" duration="1649000" />
+      <workItem from="1525445909235" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1525446332349</created>
@@ -135,7 +132,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1649000" />
+    <option name="totallyTimeSpent" value="1740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
